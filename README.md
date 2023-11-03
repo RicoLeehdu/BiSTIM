@@ -13,11 +13,11 @@ Introduction
 -----------------
 Optical Coherence Tomography Angiography (OCTA) provides unprecedented insights into the retinal vascular system. However, precise segmentation of OCTA images poses formidable challenges. Current methods contend with issues such as imaging artifacts and poor clarity under dark scene conditions that complicate the diagnosis and classification of diseases like Branch Vein Occlusion (BVO). To tackle these obstacles, we have developed a network based on topological structure generation that employs a transition from superficial to deep retinal layers, aiming to enhance OCTA segmentation accuracy. Both qualitative visual comparisons and quantitative metric analyses support improved performance. Moreover, our introduced enhancement methodology mitigates artifacts induced by low-light OCTA, reducing noise and improving clarity. Additionally, our system provides a structured approach to classifying BVO diseases, filling a significant gap in this domain. The overarching goal of these methods is to improve OCTA image quality and strengthen the reliability of segmentation. Preliminary assessments indicate potential for establishing robust fine-grained standards for OCTA vascular segmentation and analysis.
 
-<img width="1096" alt="image" src='figs/system.png'>
+<img width="1096" alt="image" src='system.png'>
 
 Quantitative comparison between on OCTA-500
 -----------------
-<img width="1096" alt="image" src='figs/octa-500.png'>
+<img width="1096" alt="image" src='octa-500.png'>
 
 
 
@@ -40,7 +40,7 @@ Quantitative comparison between on OCTA-500
 Quantitative comparison of BLAAM and other loss functions
 -----------------
 
-<img width="1096" alt="image" src='figs/loss.png'>
+<img width="1096" alt="image" src='loss.png'>
 
 
 
