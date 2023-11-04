@@ -1,6 +1,6 @@
 # BiSTIM
 
-<a href="https://colab.research.google.com/drive/1QwAbn5hsdqKOD5niuBzuqQX4eLCbNKFL?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 This repository is the official PyTorch implementation of Low-light OCTA Images Segmentation Under the Constraints of Vascular Network Topology.
 
